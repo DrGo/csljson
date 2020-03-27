@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/salah/local/code/csl"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
